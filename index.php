@@ -1,3 +1,3 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Beatrice Indry Wahyuni, 51018002, Sistem Informasi ";
